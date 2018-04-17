@@ -1,3 +1,5 @@
+pip>=10.0.0
+setuptools>=39.0.0
 flask
 flask-wtf
 flask-sqlalchemy
