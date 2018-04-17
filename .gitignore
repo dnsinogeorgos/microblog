@@ -1,0 +1,22 @@
+# compiled stuff
+__pycache__
+*.py[cod]
+
+# data
+app.db
+
+# pycharm stuff
+.idea
+
+# environment related stuff
+venv/
+.env
+
+# logs
+logs
+
+# translations
+*.mo
+
+# unittest / coverage
+.coverage
